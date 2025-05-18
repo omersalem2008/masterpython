@@ -1,0 +1,18 @@
+2025-05-17 16:23:59 - WARNING - Failed login attempt 1/4
+2025-05-17 16:24:05 - WARNING - Failed login attempt 2/4
+2025-05-17 16:24:07 - WARNING - Failed login attempt 3/4
+2025-05-17 16:24:16 - INFO - Login successful
+2025-05-17 16:24:56 - WARNING - Failed login attempt 1/4
+2025-05-17 16:24:57 - WARNING - Failed login attempt 2/4
+2025-05-17 16:24:57 - WARNING - Failed login attempt 3/4
+2025-05-17 16:24:58 - WARNING - Login process interrupted by user
+2025-05-17 16:25:05 - WARNING - Failed login attempt 1/4
+2025-05-17 16:25:06 - WARNING - Failed login attempt 2/4
+2025-05-17 16:25:06 - WARNING - Failed login attempt 3/4
+2025-05-17 16:25:08 - WARNING - Failed login attempt 4/4
+2025-05-17 16:25:08 - ERROR - Account locked - Maximum login attempts exceeded
+2025-05-17 16:27:27 - WARNING -login_system - validate_password() - Failed login attempt 1/4
+2025-05-17 16:27:27 - WARNING -login_system - validate_password() - Failed login attempt 2/4
+2025-05-17 16:27:28 - WARNING -login_system - validate_password() - Failed login attempt 3/4
+2025-05-17 16:27:28 - WARNING -login_system - validate_password() - Failed login attempt 4/4
+2025-05-17 16:27:28 - ERROR -login_system - validate_password() - Account locked - Maximum login attempts exceeded
