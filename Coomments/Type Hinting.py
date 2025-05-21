@@ -14,3 +14,7 @@ def calculate(n1, n2): # -> str: #example for type hinting
   print(n1 + n2)
 
 calculate(10, 40)
+
+print("this is new edit to test the git and github")
+
+# we test for git and git hub
