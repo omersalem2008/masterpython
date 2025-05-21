@@ -14,3 +14,4 @@ def calculate(n1, n2): # -> str: #example for type hinting
   print(n1 + n2)
 
 calculate(10, 40)
+
