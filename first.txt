@@ -1,3 +1,8 @@
 first commit
+<<<<<<< HEAD
 
 
+=======
+second commit
+third commit
+>>>>>>> parent of b4fffb2 (Revert "second commit")
